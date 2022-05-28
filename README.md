@@ -17,8 +17,9 @@ Sử dụng pretrained word2vec để xác định liệu 1 cặp từ cho trư�
 |---|----------|:-------------:|--------:|
 |Gốc|68.81%|80.69%|71.21%|
 |Gốc + Sinh thêm| 86.22% |  87.85% | 86.36% |
-> **_NOTE:_**  Đây là kết quả sau khi đã loại bỏ hoàn toàn các dữ liệu trong tập train mà có trong tập test
+> **_NOTE:_**  Đây là kết quả sau khi đã loại bỏ hoàn toàn các dữ liệu trong tập train mà có trong tập test.
+>   Các đánh giá chi tiết hơn sẽ được làm trong báo cáo
 ## Link báo cáo chi tiết
-........
+>  https://docs.google.com/document/d/1WRsWCm2QnNsEdLhza3Q6e-YHUMeHXLTIZfLo1-hCXCU/edit?usp=sharing
 
 
